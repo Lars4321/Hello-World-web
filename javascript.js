@@ -2,5 +2,5 @@
 
 function writetext(str) {
     document.write("<p>writeText: " + str + "</p>");
-    alert("Hello World");
+    alert("Hello World of today");
 }
